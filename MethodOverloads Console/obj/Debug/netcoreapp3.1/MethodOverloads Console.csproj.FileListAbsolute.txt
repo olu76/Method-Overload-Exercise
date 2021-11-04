@@ -1,0 +1,14 @@
+C:\Users\midas\source\repos\MethodOverloads\MethodOverloads Console\bin\Debug\netcoreapp3.1\MethodOverloads Console.exe
+C:\Users\midas\source\repos\MethodOverloads\MethodOverloads Console\bin\Debug\netcoreapp3.1\MethodOverloads Console.deps.json
+C:\Users\midas\source\repos\MethodOverloads\MethodOverloads Console\bin\Debug\netcoreapp3.1\MethodOverloads Console.runtimeconfig.json
+C:\Users\midas\source\repos\MethodOverloads\MethodOverloads Console\bin\Debug\netcoreapp3.1\MethodOverloads Console.runtimeconfig.dev.json
+C:\Users\midas\source\repos\MethodOverloads\MethodOverloads Console\bin\Debug\netcoreapp3.1\MethodOverloads Console.dll
+C:\Users\midas\source\repos\MethodOverloads\MethodOverloads Console\bin\Debug\netcoreapp3.1\MethodOverloads Console.pdb
+C:\Users\midas\source\repos\MethodOverloads\MethodOverloads Console\obj\Debug\netcoreapp3.1\MethodOverloads Console.csproj.AssemblyReference.cache
+C:\Users\midas\source\repos\MethodOverloads\MethodOverloads Console\obj\Debug\netcoreapp3.1\MethodOverloads Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\midas\source\repos\MethodOverloads\MethodOverloads Console\obj\Debug\netcoreapp3.1\MethodOverloads Console.AssemblyInfoInputs.cache
+C:\Users\midas\source\repos\MethodOverloads\MethodOverloads Console\obj\Debug\netcoreapp3.1\MethodOverloads Console.AssemblyInfo.cs
+C:\Users\midas\source\repos\MethodOverloads\MethodOverloads Console\obj\Debug\netcoreapp3.1\MethodOverloads Console.csproj.CoreCompileInputs.cache
+C:\Users\midas\source\repos\MethodOverloads\MethodOverloads Console\obj\Debug\netcoreapp3.1\MethodOverloads Console.dll
+C:\Users\midas\source\repos\MethodOverloads\MethodOverloads Console\obj\Debug\netcoreapp3.1\MethodOverloads Console.pdb
+C:\Users\midas\source\repos\MethodOverloads\MethodOverloads Console\obj\Debug\netcoreapp3.1\MethodOverloads Console.genruntimeconfig.cache
